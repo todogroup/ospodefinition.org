@@ -2,25 +2,37 @@
 
 ## OSPO Definition
 
-**An open source program office (OSPO) is designed to be the center of competency for an organizations open source operations and structure. This can include setting code use, distribution, selection, auditing and other policies, as well as training developers, ensuring legal compliance and promoting and building community engagement that benefits the organization strategically.**
+**An open source program office (OSPO) is designed to be the center of competency for an organization's open source operations and structure. This can include setting code use, distribution, selection, auditing and other policies, as well as training developers, ensuring legal compliance and promoting and building community engagement that benefits the organization strategically.**
 
-The responsibilities of a program office are varied. These include:
+There is no broad template for building an open source program that applies across all industries, or even across all companies in a single industry. However we can categorize the functions of a typical OSPO into three categories: Legal Risk Mitigation, Improving Engineers’ Practices, and Enabling Financial Benefits. (A mnemonic: Fear, Love, and Money)
 
-* Clearly communicating the open source strategy within and outside the company
-* Owning and overseeing the execution of the strategy (see our guide to creating an open source strategy for business)
-* Facilitating the effective use of open source in commercial products and services
-* Ensuring high-quality and frequent releases of code to open source communities
-* Engaging with developer communities and seeing that the company contributes back to other projects effectively
-* Fostering an open source culture within an organization
+**Legal Risk Mitigation:** Often, the first concern companies have is related to legal compliance. OSPOs often oversee aspects of a company’s open source license compliance process. Companies that distribute software are typically most concerned with this and initiate their OPSO around the abatement of legal risk. 
+The responsibilities of a program office in this area includes:
 * Maintaining open source license compliance reviews and oversight
+* Running a review process for inbound code use 
+* Ensuring that the company contributes back to open source projects effectively
 
-*For every company, the role of the open source program office will likely be custom-configured based on its business, products, and goals. There is no broad template for building an open source program that applies across all industries — or even across all companies in a single industry.*
+**Improving Engineers’ Practices:** OSPOs also improve engineering capabilities by providing guidance and policies about code management in an open source (and blended source) environment. Companies with many software engineers focus their OSPO on engineering policies and practices. 
+The responsibilities of a program office in this area includes:
+* Clearly communicating the open source strategy within and outside the company
+* Fostering an open source culture within an organization
+* Ensuring high-quality and frequent releases of code to open source communities
+
+**Enabling Financial Benefits:** Some companies focus on the financial implications of open source and leverage their OSPO to help drive a strategy around the use of commercial vs. open source vendors. Whereas some tech companies use their OPSO (and open source projects) to drive customers to commercial products.
+The responsibilities of a program office in this area includes:
+* Owning and overseeing the execution of the strategy
+* Facilitating the effective use of open source in commercial products and services
+* Engaging with developer communities to encourage adoption of strategic open source projects. 
+
+*Each open source program office is custom-configured based on its particular business, products, and goals.*
+
 
 ## OSPO Guides
 
 * [How to Create an Open Source Program](https://todogroup.org/guides/create-program)
 * [Measuring Your Open Source Program](https://todogroup.org/guides/measuring)
 * [Tools for Managing Your Open Source Program](https://todogroup.org/guides/management-tools)
+
 
 ## OSPO Examples
 
