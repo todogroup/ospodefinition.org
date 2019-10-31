@@ -45,4 +45,5 @@ The responsibilities of a program office in this area includes:
 * [Salesforce](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/salesforce.md)
 * [SAP](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/sap.md)
 * [Uber](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/uber.md)
+* [Yahoo/Verizon Media](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/oath.md)
 
