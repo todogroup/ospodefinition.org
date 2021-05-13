@@ -4,7 +4,7 @@
 
 **An open source program office (OSPO) is designed to be the center of competency for an organization's open source operations and structure. This can include setting code use, distribution, selection, auditing and other policies, as well as training developers, ensuring legal compliance and promoting and building community engagement that benefits the organization strategically.**
 
-There is no broad template for building an open source program that applies across all industries, or even across all companies in a single industry. However we can categorize the functions of a typical OSPO into three categories: Legal Risk Mitigation, Improving Engineers’ Practices, and Enabling Financial Benefits. (A mnemonic: Fear, Love, and Money)
+There is no broad template for building an open source program that applies across all industries, or even across all companies in a single industry. However we can categorize the functions of a typical OSPO into three categories: Legal Risk Mitigation, Improving Engineers’ Practices and Enabling Financial Benefits. (A mnemonic: Fear, Love and Money)
 
 **Legal Risk Mitigation:** Often, the first concern companies have is related to legal compliance. OSPOs often oversee aspects of a company’s open source license compliance process. Companies that distribute software are typically most concerned with this and initiate their OPSO around the abatement of legal risk. 
 The responsibilities of a program office in this area includes:
@@ -26,13 +26,16 @@ The responsibilities of a program office in this area includes:
 
 *Each open source program office is custom-configured based on its particular business, products, and goals.*
 
-
 ## OSPO Guides
 
 * [How to Create an Open Source Program](https://todogroup.org/guides/create-program)
 * [Measuring Your Open Source Program](https://todogroup.org/guides/measuring)
 * [Tools for Managing Your Open Source Program](https://todogroup.org/guides/management-tools)
 
+## OSPO 101
+
+OSPO 101 is a modular course on everything you need to know about open source program office management:
+https://github.com/todogroup/ospo101
 
 ## OSPO Examples
 
