@@ -6,7 +6,7 @@
 
 There is no broad template for building an open source program that applies across all industries, or even across all companies in a single industry. However we can categorize the functions of a typical OSPO into three categories: Legal Risk Mitigation, Improving Engineers’ Practices and Enabling Financial Benefits. (A mnemonic: Fear, Love and Money)
 
-**Legal Risk Mitigation:** Often, the first concern companies have is related to legal compliance. OSPOs often oversee aspects of a company’s open source license compliance process. Companies that distribute software are typically most concerned with this and initiate their OPSO around the abatement of legal risk. 
+**Legal Risk Mitigation:** Often, the first concern companies have is related to legal compliance. OSPOs often oversee aspects of a company’s open source license compliance process. Companies that distribute software are typically most concerned with this and initiate their OSPO around the abatement of legal risk. 
 The responsibilities of a program office in this area includes:
 * Maintaining open source license compliance reviews and oversight
 * Running a review process for inbound code use 
@@ -18,7 +18,7 @@ The responsibilities of a program office in this area includes:
 * Fostering an open source culture within an organization
 * Ensuring high-quality and frequent releases of code to open source communities
 
-**Enabling Financial Benefits:** Some companies focus on the financial implications of open source and leverage their OSPO to help drive a strategy around the use of commercial vs. open source vendors. Whereas some tech companies use their OPSO (and open source projects) to drive customers to commercial products.
+**Enabling Financial Benefits:** Some companies focus on the financial implications of open source and leverage their OSPO to help drive a strategy around the use of commercial vs. open source vendors. Whereas some tech companies use their OSPO (and open source projects) to drive customers to commercial products.
 The responsibilities of a program office in this area includes:
 * Owning and overseeing the execution of the strategy
 * Facilitating the effective use of open source in commercial products and services
