@@ -2,9 +2,50 @@
 
 ## OSPO Definition
 
-**An open source program office (OSPO) is designed to be the center of competency for an organization's open source operations and structure. This can include setting code use, distribution, selection, auditing and other policies, as well as training developers, ensuring legal compliance and promoting and building community engagement that benefits the organization strategically.**
+An open source program office (OSPO) serves as the central hub for an organization's open source operations and structure, and is responsible for defining and implementing strategies and policies to guide these efforts. This can include setting policies around code use, distribution, selection, auditing, and other key areas; providing education and training to people (inside and outside the organization) involved in open source activities; ensuring legal compliance; and promoting and building community engagement.
 
-There is no broad template for building an open source program that applies across all industries, or even across all companies in a single industry. However we can categorize the functions of a typical OSPO into three categories: Legal Risk Mitigation, Improving Engineers’ Practices and Enabling Financial Benefits. (A mnemonic: Fear, Love and Money)
+OSPOs can be formed in various sectors, regions, and organizational sizes including private and public organizations such as academics, NGOs, foundations, governments, and public administrations, as well as small, medium, and large companies. It's also important to note that the term "Program" in OSPOs can sometimes be excluded (Open Source Office).
+
+## Basic Segmentation
+
+There is no broad template for building an open source program that applies across all industries, or even across all companies in a single industry. However we can categorize the functions of a typical OSPO into different categories, depending on the nature of the organization and its motivators.
+
+* `📈 Business-Oriented`: OSPOs are usually established within for-profit organizations, such as enterprises, 
+that are primarily focused on creating business value through the use of open source software. 
+
+    * **Drivers of Motivation:** Innovation / Risk Management / Legal Compliance Talent Retention
+
+* `🎓 Educational-Oriented`: OSPOs are usually established by educational institutions, such as universities 
+or schools, that are focused on using open source software to support teaching, research and learning 
+activities.
+
+    * **Drivers of Motivation:** Curriculum development / Student Engagement / Open Data / Knowledge Sharing
+
+* `👩‍🏫 Business-Educational`: OSPOs are usually for-profit organizations that provide training and certification and are likely to collaborate
+with `educational-oriented` types.
+
+    * **Drivers of Motivation: hybrid between `📈 Business-Oriented`and `🎓 Educational-Oriented`
+
+
+* `🏛 Social-Gov-Oriented`: OSPOs are usually established within a government or public administrators that are 
+focused on using open source software to achieve social or public policy objectives (e.g serving 
+citizens).
+
+    * **Drivers of Motivation:** Interoperability / Open Data / Accessibility / Inclusion / Privacy / Security / Transparency
+
+* `🌳 Social-NonGov-Oriented`: OSPOs are typically established within non-governmental organizations (NGOs) or foundations that are dedicated 
+to using open source software to create positive social change. 
+
+    * **Drivers of Motivation:** Innovation / Interoperability / Social Justice / Disaster Relief / Humanitarian Aid / Environmental Protection / Sustainable Development
+
+## Drivers of motivation
+
+In this context, motivation is the driving force that fuels the entitiy to achieve its goals and 
+reach its full potential. Based on the categories defined above, we can list some of the functions of an OSPO based on these motivators.
+
+### Business-Oriented Segment
+
+Legal Risk Mitigation, Improving Engineers’ Practices and Enabling Financial Benefits. (A mnemonic: Fear, Love and Money)
 
 **Legal Risk Mitigation:** Often, the first concern companies have is related to legal compliance. OSPOs often oversee aspects of a company’s open source license compliance process. Companies that distribute software are typically most concerned with this and initiate their OSPO around the abatement of legal risk. 
 The responsibilities of a program office in this area includes:
