@@ -2,7 +2,7 @@
 
 ## OSPO Definition
 
-An open source program office (OSPO) serves as the central hub for an organization's open source operations and structure, and is responsible for defining and implementing strategies and policies to guide these efforts. This can include setting policies around code use, distribution, selection, auditing, and other key areas; providing education and training to people (inside and outside the organization) involved in open source activities; ensuring legal compliance; and promoting and building community engagement.
+An open source program office (OSPO) serves as the center of competency for an organization's open source operations and structure, and is responsible for defining and implementing strategies and policies to guide these efforts. This can include setting policies around code use, distribution, selection, auditing, and other key areas; providing education and training to people (inside and outside the organization) involved in open source activities; ensuring legal compliance; and promoting and building community engagement.
 
 OSPOs can be formed in various sectors, regions, and organizational sizes including private and public organizations such as academics, NGOs, foundations, governments, and public administrations, as well as small, medium, and large companies. It's also important to note that the term "Program" in OSPOs can sometimes be excluded (Open Source Office).
 
@@ -80,14 +80,20 @@ https://github.com/todogroup/ospo101
 
 ## OSPO Examples
 
+* [Aiven](https://aiven.io/blog/open-source-program-office-at-aiven-a-year-later)
 * [Autodesk](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/autodesk.md)
 * [Capital One](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/capitalone.md)
 * [Comcast](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/comcast.md)
-* [Facebook](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/facebook.md)
+* [Meta](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/facebook.md)
 * [Microsoft](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/microsoft.md)
+* [Postman](https://dev.to/postman/how-postmans-building-their-open-source-program-office-ospo-hgf)
 * [Red Hat](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/redhat.md)
+* [RIT](https://todogroup.org/guides/casestudies/rit/)
 * [Salesforce](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/salesforce.md)
 * [SAP](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/sap.md)
+* [UC Santa Cruz](https://research.redhat.com/blog/article/building-a-university-ospo-bolstering-academic-research-through-open-source/)
 * [Uber](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/uber.md)
-* [Yahoo/Verizon Media](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/oath.md)
+* [Yahoo](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/oath.md)
+
+Explore other OSPOs via the OSPO Lanscape: https://landscape.todogroup.org/
 
