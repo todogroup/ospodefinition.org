@@ -2,7 +2,7 @@
 
 ## OSPO Definition
 
-**[WHAT]** An open source program office (OSPO) serves as the center of competency for an organization's open source operations and structure, and is responsible for defining and implementing strategies and policies to guide these efforts. This can include setting policies around code use, distribution, selection, auditing, and other key areas; providing education and training to people (inside and outside the organization) involved in open source activities; ensuring legal compliance; and promoting and building community engagement.
+**[WHAT]** An open source program office (OSPO) serves as the center of competency for an organization's open source operations and structure, and is responsible for defining and implementing strategies and policies to guide these efforts. This can include setting policies around code use, distribution, selection, auditing, and other key areas; providing education and training to people (inside and outside the organization) involved in open source activities; supporting an organization's efficiency in developing software through encouraging sustainable consumption of and reuse of existing open source components and, where appropriate, contributing enhancements back to these project; ensuring engineering effectiveness; ensuring legal compliance; and promoting and building community engagement.
 
 **[WHO]** OSPOs are composed of people (open source specialists) wearing different hats:
 
