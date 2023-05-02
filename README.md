@@ -2,9 +2,23 @@
 
 ## OSPO Definition
 
-An open source program office (OSPO) serves as the center of competency for an organization's open source operations and structure, and is responsible for defining and implementing strategies and policies to guide these efforts. This can include setting policies around code use, distribution, selection, auditing, and other key areas; providing education and training to people (inside and outside the organization) involved in open source activities; ensuring legal compliance; and promoting and building community engagement.
+**[WHAT]** An open source program office (OSPO) serves as the center of competency for an organization's open source operations and structure, and is responsible for defining and implementing strategies and policies to guide these efforts. This can include setting policies around code use, distribution, selection, auditing, and other key areas; providing education and training to people (inside and outside the organization) involved in open source activities; ensuring legal compliance; and promoting and building community engagement.
 
-OSPOs can be formed in various sectors, regions, and organizational sizes including private and public organizations such as academics, NGOs, foundations, governments, and public administrations, as well as small, medium, and large companies. It's also important to note that the term "Program" in OSPOs can sometimes be excluded (Open Source Office).
+**[WHO]** OSPOs are composed of people (open source specialists) wearing different hats:
+
+* Open Source Enabler: OSPOs can help organizations navigate the cultural, process, and tool changes required to engage with the open source community effectively. This can involve educating teams/ units, establishing new processes and workflows, and adopting new tools and technologies.
+
+* Open Source Counselor: OSPOs can provide guidance and advice on the latest open source trends, licensing issues, and how to engage with open source projects, foundations, and communities. This can help organizations stay up-to-date with the rapidly changing open source landscape and ensure they are making informed decisions.
+
+* Open Source Advocate: OSPOs can promote the use and/or contribution of open source and best practices across different organizational units. This can help organizations realize the benefits of open source as well as engaging people to contribute to open source projects or start new ones.
+
+* Open Source Environmentalist: OSPOs can help organizations support and sustain open source projects in the long term by addressing issues such as security, maintenance, and project health. This can involve establishing policies and procedures for code review, security vulnerability management, and ongoing maintenance and support through funding and/or contributions. By doing so, OSPOs can help ensure that open source projects remain healthy and continue to benefit the wider community.
+
+**[HOW]** The way the people behind an OSPO achieve this is by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement. The OSPO's strategy focuses on aligning the organization's open source goals with its overall organization objectives.
+
+**[WHY]** An OSPO serves as a vital bridge between an organization and the open source community, helping to ensure that the organization is a good steward of open source software and can reap the benefits of open source adoption while minimizing risks.
+
+> OSPOs can be formed in various sectors, regions, and organizational sizes including private and public organizations such as academics, NGOs, foundations, governments, and public administrations, as well as small, medium, and large companies. It's also important to note that the term "Program" in OSPOs can sometimes be excluded (Open Source Office).
 
 ## Basic Segmentation
 
@@ -66,6 +80,8 @@ The responsibilities of a program office in this area includes:
 * Engaging with developer communities to encourage adoption of strategic open source projects. 
 
 *Each open source program office is custom-configured based on its particular business, products, and goals.*
+
+***
 
 ## OSPO Guides
 
