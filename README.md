@@ -1,8 +1,14 @@
 # Open Source Program Office (OSPO) Definition and Guide
 
+Open source is [intertwined in the development of modern technologies](https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html?intcmp=sig-blog-ossra22) and serves as the foundation of the vast majority of codebases across all industry sectors, such as Artificial Inteligence and Machine Learning or Cybersecurity. 
+
+*Nearly all organizations depend on technology created by the open source community*
+
 ## OSPO Definition
 
-**[WHAT]** An open source program office (OSPO) serves as the center of competency for an organization's open source operations and structure, and is responsible for defining and implementing strategies and policies to guide these efforts. This can include setting policies around code use, distribution, selection, auditing, and other key areas; providing education and training to people (inside and outside the organization) involved in open source activities; supporting an organization's efficiency in developing software through encouraging sustainable consumption of and reuse of existing open source components and, where appropriate, contributing enhancements back to these project; ensuring engineering effectiveness; ensuring legal compliance; and promoting and building community engagement.
+**[WHAT]** An open source program office (OSPO) serves as the center of competency for an organization's open source operations and structure. It is responsible for defining and implementing strategies and policies to guide these efforts. This can include setting policies around code use, distribution, selection, auditing, and other key areas; providing education and training to people (inside and outside the organization) involved in open source activities; supporting an organization's efficiency in developing software through encouraging sustainable usage of existing open source components and, where appropriate, contributing enhancements back to these project; ensuring engineering effectiveness; ensuring legal compliance; and promoting and building community engagement.
+
+**[WHY]** An OSPO serves as a vital bridge between an organization and the open source community, helping to ensure that the organization is a good steward of open source software and can reap the benefits of open source adoption while minimizing risks.
 
 **[WHO]** OSPOs are composed of people (open source specialists) wearing different hats:
 
@@ -16,38 +22,36 @@
 
 **[HOW]** The way the people behind an OSPO achieve this is by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement. The OSPO's strategy focuses on aligning the organization's open source goals with its overall organization objectives.
 
-**[WHY]** An OSPO serves as a vital bridge between an organization and the open source community, helping to ensure that the organization is a good steward of open source software and can reap the benefits of open source adoption while minimizing risks.
-
 > OSPOs can be formed in various sectors, regions, and organizational sizes including private and public organizations such as academics, NGOs, foundations, governments, and public administrations, as well as small, medium, and large companies. It's also important to note that the term "Program" in OSPOs can sometimes be excluded (Open Source Office).
 
 ## Basic Segmentation
 
-There is no broad template for building an open source program that applies across all industries, or even across all companies in a single industry. However we can categorize the functions of a typical OSPO into different categories, depending on the nature of the organization and its motivators.
+There is no broad template for building an open source program that applies across all industries, or even across all companies in a single industry. However we can categorize the functions of an OSPO into different categories, depending on the nature of the organization and its motivators.
 
-* `📈 Business-Oriented`: OSPOs are usually established within for-profit organizations, such as enterprises, 
+* `📈 Business-Oriented`: OSPOs established within for-profit organizations, such as enterprises, 
 that are primarily focused on creating business value through the use of open source software. 
 
     * **Drivers of Motivation:** Innovation / Risk Management / Legal Compliance Talent Retention
 
-* `🎓 Educational-Oriented`: OSPOs are usually established by educational institutions, such as universities 
+* `🎓 Educational-Oriented`: OSPOs established by educational institutions, such as universities 
 or schools, that are focused on using open source software to support teaching, research and learning 
 activities.
 
     * **Drivers of Motivation:** Curriculum development / Student Engagement / Open Data / Knowledge Sharing
 
-* `👩‍🏫 Business-Educational`: OSPOs are usually for-profit organizations that provide training and certification and are likely to collaborate
+* `👩‍🏫 Business-Educational`: OSPOs established within for-profit organizations that provide training and certification and are likely to collaborate
 with `educational-oriented` types.
 
     * **Drivers of Motivation: hybrid between `📈 Business-Oriented`and `🎓 Educational-Oriented`
 
 
-* `🏛 Social-Gov-Oriented`: OSPOs are usually established within a government or public administrators that are 
+* `🏛 Social-Gov-Oriented`: OSPOs established within a government or public administrators that are 
 focused on using open source software to achieve social or public policy objectives (e.g serving 
 citizens).
 
     * **Drivers of Motivation:** Interoperability / Open Data / Accessibility / Inclusion / Privacy / Security / Transparency
 
-* `🌳 Social-NonGov-Oriented`: OSPOs are typically established within non-governmental organizations (NGOs) or foundations that are dedicated 
+* `🌳 Social-NonGov-Oriented`: OSPOs established within non-governmental organizations (NGOs) or foundations that are dedicated 
 to using open source software to create positive social change. 
 
     * **Drivers of Motivation:** Innovation / Interoperability / Social Justice / Disaster Relief / Humanitarian Aid / Environmental Protection / Sustainable Development
@@ -82,6 +86,9 @@ The responsibilities of a program office in this area includes:
 *Each open source program office is custom-configured based on its particular business, products, and goals.*
 
 ***
+## OSPO Landscape
+
+Organizations that have an OSPO or hires open source especialists to manage open source operations and structure: https://landscape.todogroup.org/
 
 ## OSPO Guides
 
