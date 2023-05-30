@@ -31,7 +31,7 @@ There is no broad template for building an open source program that applies acro
 * `📈 Business-Oriented`: OSPOs established within for-profit organizations, such as enterprises, 
 that are primarily focused on creating business value through the use of open source software. 
 
-    * **Drivers of Motivation:** Innovation / Risk Management / Legal Compliance Talent Retention
+    * **Drivers of Motivation:** Innovation / Risk Management / Legal Compliance / Talent Retention
 
 * `🎓 Educational-Oriented`: OSPOs established by educational institutions, such as universities 
 or schools, that are focused on using open source software to support teaching, research and learning 
