@@ -42,7 +42,7 @@ activities.
 * `👩‍🏫 Business-Educational`: OSPOs established within for-profit organizations that provide training and certification and are likely to collaborate
 with `educational-oriented` types.
 
-    * **Drivers of Motivation: hybrid between `📈 Business-Oriented`and `🎓 Educational-Oriented`
+    * **Drivers of Motivation:** hybrid between `📈 Business-Oriented`and `🎓 Educational-Oriented`
 
 
 * `🏛 Social-Gov-Oriented`: OSPOs established within a government or public administrators that are 
