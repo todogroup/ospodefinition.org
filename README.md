@@ -1,6 +1,6 @@
 # Open Source Program Office (OSPO) Definition and Guide
 
-Open source is [intertwined in the development of modern technologies](https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html?intcmp=sig-blog-ossra22) and serves as the foundation of the vast majority of codebases across all industry sectors, such as Artificial Inteligence and Machine Learning or Cybersecurity. 
+Open source is [intertwined in the development of modern technologies](https://www.synopsys.com/software-integrity/resources/analyst-reports/open-source-security-risk-analysis.html?intcmp=sig-blog-ossra22) and serves as the foundation of the vast majority of codebases across all industry sectors and technology areas, such as Artificial Inteligence and Machine Learning or Cybersecurity. 
 
 *Nearly all organizations depend on technology created by the open source community*
 
