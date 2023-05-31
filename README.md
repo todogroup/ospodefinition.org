@@ -37,7 +37,7 @@ that are primarily focused on creating business value through the use of open so
 or schools, that are focused on using open source software to support teaching, research and learning 
 activities.
 
-    * **Drivers of Motivation:** Curriculum development / Student Engagement / Open Data / Knowledge Sharing
+    * **Drivers of Motivation:** Curriculum development / Student Engagement / Knowledge Sharing
 
 * `👩‍🏫 Business-Educational`: OSPOs established within for-profit organizations that provide training and certification and are likely to collaborate
 with `educational-oriented` types.
