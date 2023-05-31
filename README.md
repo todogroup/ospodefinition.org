@@ -63,7 +63,7 @@ reach its full potential. Based on the categories defined above, we can list som
 
 ### Business-Oriented Segment
 
-Legal Risk Mitigation, Improving Engineers’ Practices and Enabling Financial Benefits. (A mnemonic: Fear, Love and Money)
+Risk Mitigation, Improving Engineers’ Practices and Enabling Financial Benefits. (A mnemonic: Fear, Love and Money)
 
 **Legal Risk Mitigation:** Often, the first concern companies have is related to legal compliance. OSPOs often oversee aspects of a company’s open source license compliance process. Companies that distribute software are typically most concerned with this and initiate their OSPO around the abatement of legal risk. 
 The responsibilities of a program office in this area includes:
