@@ -22,7 +22,7 @@ Open source is [intertwined in the development of modern technologies](https://w
 
 **[HOW]** The way the people behind an OSPO achieve this is by creating and maintaining a framework covering the following aspects: strategy, governance, compliance, and community engagement. The OSPO's strategy focuses on aligning the organization's open source goals with its overall organization objectives.
 
-> OSPOs can be formed in various sectors, regions, and organizational sizes including private and public organizations such as academics, NGOs, foundations, governments, and public administrations, as well as small, medium, and large companies. It's also important to note that the term "Program" in OSPOs can sometimes be excluded (Open Source Office).
+> OSPOs can be formed in various sectors, regions, and organizational sizes including private and public organizations such as academics, NGOs, foundations, governments, and public administrations, as well as small, medium, and large companies. It's also important that there are many different names for an OSPO-like structure within an organization. The naming and concrete organizational form will strongly depend on the the practices of each organization. Organizing it as a "Program" or an "Office" is only one way to implement a structure which serves the purpose of an OSPO.
 
 ## Basic Segmentation
 
