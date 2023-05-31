@@ -9,7 +9,7 @@ There is no broad template for building an open source program that applies acro
 **Legal Risk Mitigation:** Often, the first concern companies have is related to legal compliance. OSPOs often oversee aspects of a company’s open source license compliance process. Companies that distribute software are typically most concerned with this and initiate their OSPO around the abatement of legal risk. 
 The responsibilities of a program office in this area includes:
 * Maintaining open source license compliance reviews and oversight
-* Running a review process for inbound code use 
+* Running a review process for inbound open source code use 
 * Ensuring that the company contributes back to open source projects effectively
 
 **Improving Engineers’ Practices:** OSPOs also improve engineering capabilities by providing guidance and policies about code management in an open source (and blended source) environment. Companies with many software engineers focus their OSPO on engineering policies and practices. 
