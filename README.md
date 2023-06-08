@@ -14,7 +14,7 @@ Open source is [intertwined in the development of modern technologies](https://o
 
 **[WHO]** OSPOs are composed of people (open source specialists) wearing different hats:
 
-* Open Source Enabler: OSPOs can help organizations navigate the cultural, process, and tool changes required to engage with the open source community effectively. This can involve educating teams/ units, establishing new processes and workflows, and adopting new tools and technologies.
+* Open Source Enabler: OSPOs can help organizations navigate the cultural, process, and tool changes required to engage with the open source community effectively. This can involve educating teams/units, establishing new processes and workflows, and adopting new tools and technologies.
 
 * Open Source Counselor: OSPOs can provide guidance and advice on the latest open source trends, licensing issues, and how to engage with open source projects, foundations, and communities. This can help organizations stay up-to-date with the rapidly changing open source landscape and ensure they are making informed decisions.
 
