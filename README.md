@@ -122,5 +122,5 @@ https://github.com/todogroup/ospo101
 * [Uber](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/uber.md)
 * [Yahoo](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/oath.md)
 
-Explore other OSPOs via the OSPO Lanscape: https://landscape.todogroup.org/
+Explore other OSPOs via the OSPO Landscape: https://landscape.todogroup.org/
 
