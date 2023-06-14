@@ -26,7 +26,7 @@ Open source is [intertwined in the development of modern technologies](https://o
 
 > OSPOs can be formed in various sectors, regions, and organizational sizes including private and public organizations such as academics, NGOs, foundations, governments, and public administrations, as well as small, medium, and large companies. It's also important that there are many different names for an OSPO-like structure within an organization. The naming and concrete organizational form will strongly depend on the the practices of each organization. Organizing it as a "Program" or an "Office" is only one way to implement a structure which serves the purpose of an OSPO.
 
-## Basic Segmentation
+## Basic Segmentation (Beta Version)
 
 There is no broad template for building an open source program that applies across all industries, or even across all companies in a single industry. However we can categorize the functions of an OSPO into different categories, depending on the nature of the organization and its motivators. 
 
