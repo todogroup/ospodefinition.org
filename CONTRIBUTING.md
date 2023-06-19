@@ -13,7 +13,7 @@ Hi there! 👋 Thanks for your interest in contributing to the OSPO Definition p
 * [OSPO Forum](https://github.com/todogroup/ospology/discussions)
 
 
-# 🧩　Contirbutor roles
+# 🧩 Contributor roles
 
 This section outlines the different contributor roles within the project and the responsibilities and privileges that come with them.
 
