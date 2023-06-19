@@ -60,11 +60,7 @@ The OSPO Definition is for everyone and everyone can become a contributor.
 How you can participate in this project depends on your level of Open Source Program Office / Open Source within organizations expertise. Simplifying complex concepts requires a deep knowledge of the topic. 
 Therefore, to contribute new terms, you must be proficient in them.
 
-That know-how is required because explaining complex concepts in simple words is really hard. And while the digestible, user-friendly outcome may seem easy, achieving the desired simplicity 
-results from hard work and collaboration between cloud native experts.
-
-If you have never directly engaging with Open Source Program Offices or open source initiatives wihtin organizations yet, but still want to contribute, we recommend teaming up with someone who is. O
-nce the expert is confident that the term accurately describes the concept, you are ready for your first Glossary contribution.
+If you have never directly engaging with Open Source Program Offices or open source initiatives wihtin organizations yet, but still want to contribute, we recommend teaming up with someone who is. Once the expert is confident that the term accurately describes the concept, you are ready for your first Glossary contribution.
 
 The localization effort is where beginners proficient in another language can make valuable contributions to the OSPO Definition. With solid existing definitions in English, 
 less experienced contributors can localize terms to a target language. You can join an existing localization team or create a new one.
