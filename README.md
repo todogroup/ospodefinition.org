@@ -1,3 +1,7 @@
+[![Static Badge](https://img.shields.io/badge/Interactive-OSPO_Definition-pink)](https://ospoglossary.todogroup.org/ospo-definition/)
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://github.com/todogroup/ospology/discussions)
+
 # Open Source Program Office (OSPO) Definition and Guide
 
 Open source is [intertwined in the development of modern technologies](https://openforumeurope.org/open-source-impact-study/) and serves as the foundation of the vast majority of codebases across all industry sectors and technology areas, such as Artificial Inteligence and Machine Learning or Cybersecurity. 
