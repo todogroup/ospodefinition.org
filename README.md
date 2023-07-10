@@ -34,7 +34,7 @@ Open source is [intertwined in the development of modern technologies](https://o
 
 There is no broad template for building an open source program that applies across all industries, or even across all companies in a single industry. However we can categorize the functions of an OSPO into different categories, depending on the nature of the organization and its motivators. 
 
-Please note that these categories do not necessarily need to be seen as silos. For instance, `Gov-` and `NonGov-Oriented` categories listed below could also be mixed with `educational-oriended` or have certain `business-roriented` motivations. The same happens with `business-oriented`category, that can provide training including educational-oriented goals.
+Please note that these categories do not necessarily need to be seen as silos. For instance, `Gov-` and `NonGov-Oriented` categories listed below could also be mixed with `educational-oriented` or have certain `business-oriented` motivations. The same happens with `business-oriented`category, that can provide training including educational-oriented goals.
 
 * `📈 Business-Oriented`: OSPOs established within for-profit organizations, such as enterprises, 
 that are primarily focused on creating business value through the use of open source software. 
@@ -66,7 +66,7 @@ to using open source software to create positive social change.
 
 ## Drivers of motivation
 
-In this context, motivation is the driving force that fuels the entitiy to achieve its goals and 
+In this context, motivation is the driving force that fuels the entity to achieve its goals and 
 reach its full potential. Based on the categories defined above, we can list some of the functions of an OSPO based on these motivators.
 
 ### Business-Oriented Segment
@@ -96,7 +96,7 @@ The responsibilities of a program office in this area includes:
 ***
 ## OSPO Landscape
 
-Organizations that have an OSPO or hires open source especialists to manage open source operations and structure: https://landscape.todogroup.org/
+Organizations that have an OSPO or hires open source specialists to manage open source operations and structure: https://landscape.todogroup.org/
 
 ## OSPO Guides
 
