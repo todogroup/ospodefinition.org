@@ -53,7 +53,7 @@ Maintainers are approvers who can also merge PRs. Anyone can become a OSPO Defin
 
 If a maintainer is no longer interested in or cannot perform the duties listed above, they should move themselves to emeritus status
 
-# Who can contirbute?
+# Who can contribute?
 
 The OSPO Definition is for everyone and everyone can become a contributor.
 
