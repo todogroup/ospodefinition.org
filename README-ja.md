@@ -100,7 +100,7 @@ OSPO を持っている組織、またはオープンソースの運用と構造
 OSPO 101 は、オープンソースプログラムオフィスの管理について知っておくべきことすべてを学ぶモジュール式のコースです。
 https://github.com/todogroup/ospo101
 
-## OSPO Examples
+## OSPO の例
 
 * [Aiven](https://aiven.io/blog/open-source-program-office-at-aiven-a-year-later)
 * [Autodesk](https://github.com/todogroup/todogroup.github.io/blob/master/content/en/guides/casestudies/autodesk.md)
