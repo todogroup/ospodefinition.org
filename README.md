@@ -101,7 +101,7 @@ Organizations that have an OSPO or hires open source specialists to manage open 
 ## OSPO Guides
 
 * [How to Create an Open Source Program](https://todogroup.org/resources/guides/how-to-create-an-open-source-program-office/)
-* [Measuring Your Open Source Program](https://todogroup.org/guides/measuring)
+* [Measuring Your Open Source Program](https://todogroup.org/resources/guides/measuring-your-open-source-programs-success/)
 * [Tools for Managing Your Open Source Program](https://todogroup.org/guides/management-tools)
 
 ## OSPO 101
