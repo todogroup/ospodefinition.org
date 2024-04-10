@@ -1,5 +1,5 @@
 [![Static Badge](https://img.shields.io/badge/Interactive-OSPO_Definition-pink)](https://ospoglossary.todogroup.org/ospo-definition/)
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![License: CC BY SA 4.0](https://img.shields.io/badge/License-CC_BY_SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![GH Discussions](https://img.shields.io/badge/OSPO-Discussions-green)](https://github.com/todogroup/ospology/discussions)
 
 # オープンソースプログラムオフィス (Open Source Program Office; OSPO) の定義とガイド
